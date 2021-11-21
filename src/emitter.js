@@ -1,5 +1,7 @@
 import Logger from './logger';
 
+console.log('ololo this is test')
+
 export default class EventEmitter{
 
     constructor(vuex = {}){
